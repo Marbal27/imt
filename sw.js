@@ -3,9 +3,9 @@ const assets = [
     '.',
     'index.html',
     'imt.js',
-    '/img/icon-192x192.png',
-    '/img/icon-256x256.png',
-    '/img/icon-512x512.png'
+    'img/icon-192x192.png',
+    'img/icon-256x256.png',
+    'img/icon-512x512.png'
 ]
 
 self.addEventListener('install', evt => {
